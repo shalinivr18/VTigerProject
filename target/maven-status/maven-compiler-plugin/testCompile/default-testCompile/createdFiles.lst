@@ -1,0 +1,16 @@
+sample\HardAssertPractice.class
+testCaseRepo\TC_001.class
+testCaseRepo\TC_002.class
+testCaseRepo\TC_003.class
+testCaseRepo\TC_006.class
+sample\fetchingdatafrompropertiesfilePractice.class
+sample\FetchingMultipleDataFromExcel.class
+testCaseRepo\TC_004.class
+sample\fetchdata.class
+sample\RetryAnalyzerPractice.class
+sample\SoftAssertionPractice.class
+sample\TestNGPractice.class
+sample\DataProviderPractice.class
+testCaseRepo\TC_005.class
+sample\DataProviderMethods.class
+sample\fetchingDataFromExcelExample.class
